@@ -1,0 +1,3 @@
+https://connect.uipath.com/marketplace/components/sharepoint-custom-activities-package
+
+https://sharepoint.stackexchange.com/questions/236286/sharepoint-online-rest-api-authentication-in-postman
