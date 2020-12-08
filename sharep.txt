@@ -2,5 +2,12 @@ https://connect.uipath.com/marketplace/components/sharepoint-custom-activities-p
 
 https://sharepoint.stackexchange.com/questions/236286/sharepoint-online-rest-api-authentication-in-postman
 
+<<<<<<< HEAD
 
 sdnjanjdsncfdncjn
+=======
+cnjncrvnrrfv
+c xmcdscwd c
+
+sxjcwdknckdwnckwdnc
+>>>>>>> b2
