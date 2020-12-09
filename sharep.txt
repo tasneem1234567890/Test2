@@ -10,4 +10,10 @@ cnjncrvnrrfv
 c xmcdscwd c
 
 sxjcwdknckdwnckwdnc
+<<<<<<< HEAD
 >>>>>>> b2
+=======
+
+Test1 Test2
+Test3
+>>>>>>> master
